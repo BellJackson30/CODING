@@ -1,6 +1,13 @@
+@font-face{
+  font-family: Contender;
+  src: url(Contenderfreeversion-ez596.otf);
+}
 html, body {
   margin: 0;
   padding: 0;
+    font-family: Contender;
+    font-size: 70px;
+  color: rgb(69, 252, 8)
 }
 canvas {
   display: block;
