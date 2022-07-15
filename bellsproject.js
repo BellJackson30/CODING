@@ -35,7 +35,7 @@ let festiveSound
 let wheelSound
 
 function preload(){
-  customFont=loadFont('Contenderfreeversion-ez596.otf')
+  customFont=loadFont('Contender.otf') 
   ball=loadImage('CyFc.gif')
   jakethedog=loadImage('heart-love.gif')
   festiveSound = loadSound('festive-melody.wav')
