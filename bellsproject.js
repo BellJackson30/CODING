@@ -9,14 +9,21 @@ let fortuneText
 let namesArray = [
   '',
   'You trip into a fiery pit and go to hell where you then  meet Bob Duncan (zaddy)',
+  'Kanye West will write a diss track about how you smelled bad after seeing you once at Papa Johns Pizzeria',
   'Gordon Ramsay agrees to cook for you but you get food poisoning immediately after, leading to excessive diarehea...',
+  'You will stub your toe so hard that you fall into a coma',
   'You will meet your celebrity crush at the beach buuuuut you then get stung by a  jelly fish so they have to pee on you to help  the pain',
-  'You will die tomorrow if you dont go back to ur ex by midnight',
-  'You will turn into a pixie fairy and do coke with Tinker Bell',
-  'You will laugh so hard you die where you then go to heaven and see Michelle Obama!!!!!',
-  'You will meet the Boy of your dreams butttt then he will eventually cheat on you with you Hot Dad, sry :(',
+  'You will join a boy band but then go solo for the sake of profit',
+  'You will turn into a pixie fairy and hang out with Tinker Bell',
+  'You will laugh so hard you die where you then go to heaven and see Betty White!!!!!',
+  'A zombie apocolypse will apprach within the next 5 days...you wont survive long :(',
   'Those closest to you will stab you in the back by the strike of midnight',
   'You will win the million dollar lottery but then have to pay every baby daddys child support :(',
+  'A dark entity is in this room with us... their angry and vengeful...',
+  'You will make it to the ripe age of 27 and then die suddenly',
+  ' You will fall for a pyramid scheme but then actually get super rich from it',
+  'You will become a penguin and live with Bear Grills in an Igloo',
+
 ]
 let canvas
 
